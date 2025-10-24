@@ -2,5 +2,9 @@
 result
 result-*
 
+hardware-configuration.nix
+.secret*
+*.swp
+
 # Ignore automatically generated direnv output
 .direnv
